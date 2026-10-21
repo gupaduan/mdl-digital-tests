@@ -10,7 +10,7 @@
   <p>Conteúdo qualquer simulando o site do cliente.</p>
 
   <!-- Opção A: pesquisa via iframe -->
-  <iframe src="URL_DA_PESQUISA" width="100%" height="600" style="border:0;"></iframe>
+  <iframe src="https://survey3.medallia.com/?brasilseg-1792595256315" width="100%" height="600" style="border:0;"></iframe>
 
   <!-- Opção B: snippet/intercept fornecido pela plataforma -->
   <!-- Cole aqui o <script> que a plataforma de pesquisa gera -->
